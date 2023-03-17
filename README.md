@@ -6,3 +6,6 @@
 - ⛰️ On the weekends, I enjoy hiking or spending time at the beach.
 - 🐧 I've been a Linux user since always.
 - 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs)!
+
+
+check this crud [project](https://github.com/erickgnclvs/flask-movie-app) I made with python flask and sqlite - I know it's not really restful but it was my first one. anxious to complete the next to put here.  
