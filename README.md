@@ -5,8 +5,8 @@
 - 💻 Currently, I'm diving into Spring Boot and loving it!
 - ⛰️ On the weekends, I enjoy hiking or spending time at the beach.
 - 🐧 I've been a Linux user since always.
-- 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs)!  \
-
-
+- 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs)! 
+  
+  
 > Check out this CRUD [project](https://github.com/erickgnclvs/flask-movie-app) I made with Python Flask and SQLite.  
 > I know it's not really RESTful but it was my first one made from scratch. Anxious to complete the next.  
