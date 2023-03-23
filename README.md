@@ -17,6 +17,8 @@ I am a backend web developer with experience developing apps using the MVC struc
 - Front-end basics
 - Linux
 
+  > Next technology to learn is Thymeleaf to serve templates in my Project #2
+
 ## Projects and Contributions
 ### Project 1: Movie App
 I built a movie app that allows users to search for movies and series and add them to their favorites list. The app is built with Python Flask and uses SQLite to store data. Although it's not completely RESTful, it was my first project built from scratch. You can find the repository **[here](https://github.com/erickgnclvs/flask-movie-app)**.
