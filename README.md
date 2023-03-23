@@ -11,8 +11,8 @@
 
 ## Skills and Expertise
 - Java - Spring Boot, Spring MVC, Spring Data JPA
-- Python - Flask and a little of Django
-- SQL - SQLite, MySQL and a little of PostgreSQL
+- Python - Flask and Django
+- SQL - SQLite, MySQL and PostgreSQL
 - RESTful APIs
 - Front-end basics
 - Linux
