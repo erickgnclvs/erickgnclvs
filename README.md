@@ -11,7 +11,7 @@ I am a backend web developer with experience developing apps using the MVC struc
 
 ## Skills and Expertise
 - Java - Spring Boot, Spring MVC, Spring Data JPA
-- Python - Flask, Django
+- Python - Flask and a little of Django
 - SQL - SQLite, MySQL and a little of PostgreSQL
 - RESTful APIs
 - Front-end basics
