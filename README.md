@@ -7,7 +7,7 @@
 - 🐧 I've been a Linux user since always.
 - 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs) or send me an [e-mail](mailto:erickgoncalves5@hotmail.com)! 
 
-> I am a backend web developer with experience developing apps using the MVC structure. My expertise includes Python frameworks like Flask and Django and I am currently specializing in Java's Spring Boot. 
+> I'm a backend web developer with some experience developing apps using the MVC structure. I've completed projects using Python frameworks such as Flask and Django, and I am currently focused on building my skills in Java's Spring Boot.
 
 ## Skills and Expertise
 - Java - Spring Boot, Spring MVC, Spring Data JPA
