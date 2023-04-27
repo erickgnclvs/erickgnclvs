@@ -1,7 +1,8 @@
 # Hi, I'm Erick!
 
 - 🏫 I'm a Brazilian English teacher transitioning to a career in tech.
-- 📚 I've been teaching myself to code since last July using only free resources.
+- 📚 I've been teaching myself to code since last July.
+- 🎓 Pursuing a degree in Systems Analysis and Development.
 - 💻 Currently, I'm diving into Spring Boot and loving it!
 - ⛰️ On the weekends, I enjoy hiking or spending time at the beach.
 - 🐧 I've been a Linux user since always.
