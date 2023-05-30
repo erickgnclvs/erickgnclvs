@@ -13,8 +13,10 @@
 - Python - Flask and Django
 - SQL - SQLite, MySQL and PostgreSQL
 - RESTful APIs
-- Front-end basics
+- MVC Arquitecture
+- Postman
 - Linux
+- HTML, CSS, JavaScript
 
 ## Projects
 
