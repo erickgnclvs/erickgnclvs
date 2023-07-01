@@ -21,7 +21,7 @@
 ## Projects
 
 ### Social Network App - in development
-I'm building a social network app with Spring Boot, Spring Data JPA, Thymeleaf, and MySQL. Users can connect with friends, share posts, and comment on each other's content. The app features a newsfeed that displays the latest posts from the user's friends. You can find the repository **[here](https://github.com/erickgnclvs/springboot-socialnetwork)**. Stay tuned for updates!
+I'm building a social network app with Spring Boot, Spring Data JPA, Thymeleaf, and MySQL. Users can connect with friends, share posts, and comment on each other's content. The app features a newsfeed that displays the latest posts from the user's friends. You can find the repository **[here](https://github.com/erickgnclvs/socialnetwork)**. Stay tuned for updates!
 
 ### Movie App
 I built a movie app that allows users to search for movies and series and add them to their favorites list. The app is built with Python Flask and uses SQLite to store data. Although it's not completely RESTful, it was my first project built from scratch. You can find the repository **[here](https://github.com/erickgnclvs/flask-movie-app)**.
