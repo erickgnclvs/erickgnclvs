@@ -9,10 +9,11 @@
 - 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs) or send me an [e-mail](mailto:erickgoncalves5@hotmail.com)! 
 
 ## Skills
-- Java - Spring Boot, Spring MVC, Spring Data JPA, JSP
+- Java - Spring Boot, Java Web, JSP
 - Python - Flask and Django
 - SQL - SQLite, MySQL and PostgreSQL
 - RESTful APIs
+- SOAP and XML
 - MVC Arquitecture
 - Postman
 - Linux
@@ -28,5 +29,8 @@ I built a movie app that allows users to search for movies and series and add th
 
 ### Wiki App
 I built a Wikipedia-like app with Python Django as a project of the CS50 Web Progamming Course. It let's the user search through entries, add new ones, remove them and edit existing ones. It was not built 100% from scratch as the boilerplate code was given by the project instructions, but all the logical part was done by me. You can find the repository **[here](https://github.com/erickgnclvs/django-wiki-app)**.
+
+## Internship
+I'm currently working as an intern at **[Brame Automations and Software](https://www.brame.com.br)**, a company that develops and maintains web-based financial management systems for various clients. I use Java, JSP, MySQL, and Linux to create and update features for the systems, as well as troubleshoot and fix bugs. I'm learning a lot from this experience and improving my skills as a developer.
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project. Thanks for visiting!
