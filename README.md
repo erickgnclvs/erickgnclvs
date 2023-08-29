@@ -2,17 +2,6 @@
 
  > Haven't been updating my projects here because I'm preparing to take the AWS Cloud Practitioner on September!
 
-<br>
-
-<div style="margin:10px">
-  <img height="170"  src="https://github-readme-streak-stats.herokuapp.com?user=erickgnclvs&theme=transparent&mode=weekly" />
- &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgnclvs&show_icons=true&theme=transparent&layout=compact" />
-</div>
-
-<br>
-<br>
-
 - 🏫 I'm a Brazilian English teacher that transitioned to a career in tech.
 - 🎓 Pursuing a degree in Systems Analysis and Development.
 - ⛰️ On the weekends, I enjoy hiking or spending time at the beach.
@@ -68,3 +57,12 @@ I built a Wikipedia-like app with Python Django as a project of the CS50 Web Pro
 ## Internship
 I'm currently working as an intern at **[Brame Automations and Software](https://www.brame.com.br)**, a company that develops and maintains web-based financial management systems for various clients. I use Java, JSP, MySQL, and Linux to create and update features for the systems, as well as troubleshoot and fix bugs. I'm learning a lot from this experience and improving my skills as a developer.
 
+<br>
+<br>
+<div style="margin:10px">
+  <img height="175"  src="https://github-readme-streak-stats.herokuapp.com?user=erickgnclvs&theme=transparent&mode=weekly" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgnclvs&show_icons=true&theme=transparent&layout=compact" />
+</div>
+<br>
+<br>
