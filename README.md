@@ -60,9 +60,9 @@ I'm currently working as an intern at **[Brame Automations and Software](https:/
 <br>
 <br>
 <div style="margin:10px">
-  <img height="175"  src="https://github-readme-streak-stats.herokuapp.com?user=erickgnclvs&theme=transparent&mode=weekly" />
+  <img height="170"  src="https://github-readme-streak-stats.herokuapp.com?user=erickgnclvs&theme=transparent&mode=weekly" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgnclvs&show_icons=true&theme=transparent&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgnclvs&show_icons=true&theme=transparent&layout=compact" />
 </div>
 <br>
 <br>
