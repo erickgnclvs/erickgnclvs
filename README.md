@@ -5,9 +5,9 @@
 <br>
 
 <div style="margin:10px">
-  <img height="200"  src="https://github-readme-streak-stats.herokuapp.com?user=erickgnclvs&theme=transparent&mode=weekly" />
+  <img height="100"  src="https://github-readme-streak-stats.herokuapp.com?user=erickgnclvs&theme=transparent&mode=weekly" />
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgnclvs&show_icons=true&theme=transparent&layout=compact" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgnclvs&show_icons=true&theme=transparent&layout=compact" />
 </div>
 
 <br>
