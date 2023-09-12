@@ -54,9 +54,6 @@ I built a Wikipedia-like app with Python Django as a project of the CS50 Web Pro
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 
-## Internship
-I'm currently working as an intern at **[Brame Automations and Software](https://www.brame.com.br)**, a company that develops and maintains web-based financial management systems for various clients. I use Java, JSP, MySQL, and Linux to create and update features for the systems, as well as troubleshoot and fix bugs. I'm learning a lot from this experience and improving my skills as a developer.
-
 <br>
 <br>
 <div style="margin:10px">
