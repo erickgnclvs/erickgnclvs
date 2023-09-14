@@ -1,6 +1,7 @@
 # Hi, I'm Erick!
 
- > Haven't been updating my projects here because I'm preparing to take the AWS Cloud Practitioner on September!
+ > Haven't been updating my projects here because I'm preparing to take the AWS Cloud Practitioner on September!<br><br>
+ > **edit: I passed it!!!!!!** 🥳🥳🥳🥳☁️☁️☁️☁️ 
 
 - 🏫 I'm a Brazilian English teacher that transitioned to a career in tech.
 - 🎓 Pursuing a degree in Systems Analysis and Development.
