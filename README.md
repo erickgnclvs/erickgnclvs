@@ -7,7 +7,8 @@
 - 🎓 Pursuing a degree in Systems Analysis and Development.
 - ⛰️ On the weekends, I enjoy hiking or spending time at the beach.
 - 🐧 I've been a Linux user since always.
-- 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs)! 
+- 🤝🏽 Say hi to me on [LinkedIn](https://www.linkedin.com/in/erickgnclvs)!
+- 🏢 My work github: [@erickgoncalvesvhl](https://github.com/erickgoncalvesvhl)
 
 
 
@@ -22,7 +23,7 @@
 - Postman
 - Linux
 - HTML, CSS, JavaScript
-- AWS Fundamentals
+- AWS
 
 ## Projects
 
