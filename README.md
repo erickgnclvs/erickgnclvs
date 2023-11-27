@@ -1,7 +1,7 @@
 # Hi, I'm Erick!
 
  > Haven't been updating my projects here because I'm preparing to take the AWS Cloud Practitioner on September!<br><br>
- > **edit: I passed it!!!!!!** 🥳🥳🥳🥳☁️☁️☁️☁️
+ > **edit: I passed it!!!!!!** 🥳🥳🥳🥳☁️☁️☁️☁️<br><br>
  > Now studying to take the OCI Developer professional!  
 
 - 🏫 I'm a Brazilian English teacher that transitioned to a career in tech.
