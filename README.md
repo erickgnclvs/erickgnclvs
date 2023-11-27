@@ -14,7 +14,7 @@
 
 ## Skills
 
-- Java - Spring Boot, Java Web, JSP
+- Java - Spring Boot, Java EE, JSP
 - Python - Flask and Django
 - SQL - SQLite, MySQL and PostgreSQL
 - RESTful APIs
@@ -24,6 +24,7 @@
 - Linux
 - HTML, CSS, JavaScript
 - AWS
+- Docker
 
 ## Projects
 
@@ -40,6 +41,7 @@ I built an API that manages the service of a library. It was built on Spring wit
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 ### Movie App
 I built a movie app that allows users to search for movies and series and add them to their favorites list. The app is built with Python Flask and uses SQLite to store data. Although it's not completely RESTful, it was my first project built from scratch. You can find the repository **[here](https://github.com/erickgnclvs/flask-movie-app)**.
