@@ -4,7 +4,7 @@
 {
   "role": "Software Engineer",
   "location": "Florianópolis, Brazil",
-  "current": "Scale AI",
+  "current": "eGiftify",
   "focus": ["backend", "java", "cloud", "ai"],
   "status": "creating bugs and fixing them before anyone notices"
 }
